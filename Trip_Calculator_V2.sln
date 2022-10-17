@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trip_Calculator_V2", "Trip_Calculator_V2\Trip_Calculator_V2.csproj", "{633BD2E9-463F-4B0E-98E7-8C7D3B81FBCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{633BD2E9-463F-4B0E-98E7-8C7D3B81FBCB}.Debug|x64.ActiveCfg = Debug|x64
+		{633BD2E9-463F-4B0E-98E7-8C7D3B81FBCB}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC144D56-3818-474F-B52B-F3BBD20B1C58}
+	EndGlobalSection
+EndGlobal
